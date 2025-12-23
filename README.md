@@ -16,7 +16,10 @@ This is an **educational and fun Android game**, built with Java and Android Stu
 
 ## 📱 Screenshots
 
-> 🔹 *(Add screenshots of the app here — home screen, questions, results)*  
+<img src="https://github.com/user-attachments/assets/2fa6b808-1f9a-4eb6-b679-76d1d0155254" alt="ToDoList1" width="300"/>
+<img src="https://github.com/user-attachments/assets/09a69d7c-426c-4513-b619-4ed33ff7fe4f" alt="ToDoList2" width="300"/>
+<img src="https://github.com/user-attachments/assets/d9b297b6-1272-4ad0-95c0-c0f2a7455d35" alt="ToDoList3" width="300"/>
+<img src="https://github.com/user-attachments/assets/d81d1a45-34b5-4500-8f69-6941ceb3bbe9" alt="ToDoList3" width="300"/>
 
 ## 🛠️ Technologies
 
