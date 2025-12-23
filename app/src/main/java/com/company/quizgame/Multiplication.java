@@ -118,6 +118,7 @@ public class Multiplication extends AppCompatActivity {
 
     }
 
+
     public void gameContinue()
     {
         number1 = random.nextInt(100);

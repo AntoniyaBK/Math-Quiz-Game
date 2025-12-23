@@ -99,6 +99,7 @@ public class Addition extends AppCompatActivity {
                 gameContinue();
                 resetTimer();
 
+
                 if(userLife == 0 || userScore == 0)
                 {
                     Toast.makeText(getApplicationContext(), "Game Over!", Toast.LENGTH_LONG).show();
