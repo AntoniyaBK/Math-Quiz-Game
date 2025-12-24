@@ -4,7 +4,7 @@ Math Quiz Game is an Android app that tests your math skills through quick quiz 
 
 ## 🧠 About
 
-This is an **educational and fun Android game**, built with Java and Android Studio. It can be used both for learning and entertainment.  
+This is an **educational and fun Android game**, built with Java and Android Studio v2022.2.1. It can be used both for learning and entertainment.  
 
 ## 🚀 Features
 
